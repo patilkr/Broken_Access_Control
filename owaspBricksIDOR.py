@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #===============================================================
 #  Broken Access Control Vulnerability Penetration Testing Exploit
-#  Insecure Direct Object Reference (IDOR) Scanner
+#  Insecure Direct Object Reference (IDOR) Scanner Tested with Bricks
 #  Author: Kailas PATIL
 #  Email: patilkr80 [AT] gmail [DOT] com
 #===============================================================
@@ -36,7 +36,7 @@ def main(argv):
 			if opt == '-h':
 				print ('_______________________________________________________________')
 				print (' Broken Access Control Penetration Testing Exploit ')
-				print (' Insecure Direct Object Reference (IDOR) Vulnerability Scanner')
+				print (' Insecure Direct Object Reference (IDOR) Vulnerability Scanner Testwed with Bricks')
 				print ('_______________________________________________________________')
 				print (' Author: Kailas PATIL')
 				print (' Email: patilkr80 [AT] gmail [DOT] com')
@@ -66,7 +66,7 @@ def main(argv):
 				websiteurl = arg
 				print ('===============================================================')
 				print (' Broken Access Control Penetration testing Exploit')
-				print (' Insecure Direct Object Reference (IDOR) Scanner')
+				print (' Insecure Direct Object Reference (IDOR) Scanner Tested with Bricks')
 				print (' Author: Kailas PATIL')
 				print (' Email: patilkr80 [AT] gmail [DOT] com')
 				print ('_______________________________________________________________')

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #===============================================================
 #  Broken Access Control Vulnerability Penetration Testing Exploit
-#  Local File Inclusion (LFI) Scanner for Mutillidae
+#  Local File Inclusion (LFI) Vulnerability Tested with  Mutillidae
 #  Author: Kailas PATIL
 #  Email: patilkr80 [AT] gmail [DOT] com
 #===============================================================
@@ -35,7 +35,7 @@ def main(argv):
 			if opt == '-h':
 				print ('_______________________________________________________________')
 				print (' Broken Access Control Penetration Testing Exploit ')
-				print (' Local File Inclusion (LFI) Vulnerability Scanner for Mutillidae')
+				print (' Local File Inclusion (LFI) Vulnerability Tested with Mutillidae')
 				print ('_______________________________________________________________')
 				print (' Author: Kailas PATIL')
 				print (' Email: patilkr80 [AT] gmail [DOT] com')
@@ -59,7 +59,7 @@ def main(argv):
 				websiteurl = arg
 				print ('===============================================================')
 				print (' Broken Access Control Penetration testing Exploit')
-				print (' Local File Inclusion (LFI) Scanner for Mutillidae')
+				print (' Local File Inclusion (LFI) Tested with Mutillidae')
 				print (' Author: Kailas PATIL')
 				print (' Email: patilkr80 [AT] gmail [DOT] com')
 				print ('_______________________________________________________________')
