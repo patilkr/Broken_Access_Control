@@ -5,11 +5,11 @@
 -----------------------------------------------------------
 # Usage Examples:
 ### owaspBricksIDOR.py : - Insecure Direct Object Reference (IDOR) Scanner Tested with Bricks.
-* python3 owaspBricksIDOR.py -s 0 -e 3 --url http://<ipAddress>>/owaspbricks/content-1/index.php?id=*
+* python3 owaspBricksIDOR.py -s 0 -e 3 --url http://<ipAddress>>/owaspbricks/content-1/index.php?id=
   
 ### mutillidae_LFI.py: - Local File Inclusion (LFI) Vulnerability Tested with  Mutillidae.
-* python3 mutillidae_LFI.py -f /etc/hosts  -u http://example.com/index.php?page= *
-* python3 mutillidae_LFI.py --url http://example.com/index.php?page= *
+* python3 mutillidae_LFI.py -f /etc/hosts  -u http://example.com/index.php?page= 
+* python3 mutillidae_LFI.py --url http://example.com/index.php?page= 
 
 ### get_shell.php : - Remote File Inclusion (RFI) Vulnerability Exploitation Shell Code.
 -----------------------------------------------------------
