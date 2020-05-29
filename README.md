@@ -5,7 +5,7 @@
 -----------------------------------------------------------
 # Usage Examples:
 ### owaspBricksIDOR.py : - Insecure Direct Object Reference (IDOR) Scanner Tested with Bricks.
-* python3 owaspBricksIDOR.py -s 0 -e 3 --url http://ipAddress/owaspbricks/content-1/index.php?id=
+* python3 owaspBricksIDOR.py -s 0 -e 3 --url http://<i></i>ipAddress/owaspbricks/content-1/index.php?id=
   
 ### mutillidae_LFI.py: - Local File Inclusion (LFI) Vulnerability Tested with  Mutillidae.
 * python3 mutillidae_LFI.py -f /etc/hosts  -u http://example/index.php?page= 
